@@ -1,2 +1,2 @@
-# Pooja-pal
-this is my first git repository
+# PRODIGY-WD-01
+responsive landing page
