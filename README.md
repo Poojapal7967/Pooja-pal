@@ -1,10 +1,16 @@
 # PRODIGY-WD-01
 responsive landing page
-# PRODIGY-WD-02
-tic tac toe web application
 <br>
-(HTML,css,Javascript)
+using(HTML,css)
 # PRODIGY-WD-03
-weather app
-# PRODIGY-WD-04
- watch
+tic tac toe web Application
+<br>
+(HTML,css,JavaScript)
+# PRODIGY-WD-5
+weather App 
+<br>
+using(HTML,css,JavaScript)
+# PRODIGY-WD-02
+ Watch Wb Application
+ <br>
+ using(HTML,css,JavaScript)
